@@ -17,6 +17,7 @@ namespace Demo1
         }
 	public string DTB
 	{
+		//diem trung binh
 		get{return dtb;}
 		set{return dtb=value}
 	}
