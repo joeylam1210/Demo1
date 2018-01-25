@@ -21,8 +21,9 @@ namespace Demo1
 		set{return dtb=value}
 	}
 
-	public string DTB123abc
+	public string DTB123
 	{
+		//abc
 		get{return dtb;}
 		set{return dtb=value}
 	}
