@@ -20,5 +20,11 @@ namespace Demo1
 		get{return dtb;}
 		set{return dtb=value}
 	}
+
+	public string DTB123
+	{
+		get{return dtb;}
+		set{return dtb=value}
+	}
     }
 }
