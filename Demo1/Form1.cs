@@ -21,5 +21,11 @@ namespace Demo1
 		get{return dtb;}
 		set{return dtb=value}
 	}
+	public string DGK
+	{
+		//diem giua ky
+		get{return dtb;}
+		set{return dtb=value}
+	}
     }
 }
