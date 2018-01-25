@@ -15,5 +15,10 @@ namespace Demo1
         {
             InitializeComponent();
         }
+	public string DTB
+	{
+		get{return dtb;}
+		set{return dtb=value}
+	}
     }
 }
