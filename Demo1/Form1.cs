@@ -15,6 +15,8 @@ namespace Demo1
         {
             InitializeComponent();
         }
+	
+	//tinh diem trung binh
 	public string DTB
 	{
 		get{return dtb;}
